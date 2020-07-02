@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c12b2fcd8d0b0ca8f9264bff7507b294",
+    "revision": "ee84bdd4f6238d94723138c7fee55c60",
     "url": "/remmieHealth/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/remmieHealth/static/css/2.d34346ea.chunk.css"
   },
   {
-    "revision": "f60bf4a0299a6c3424cb",
+    "revision": "7a4dc20acc8eb95c0907",
     "url": "/remmieHealth/static/css/main.c708497f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/remmieHealth/static/js/2.3eafabdb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f60bf4a0299a6c3424cb",
-    "url": "/remmieHealth/static/js/main.33decca8.chunk.js"
+    "revision": "7a4dc20acc8eb95c0907",
+    "url": "/remmieHealth/static/js/main.37e5aabf.chunk.js"
   },
   {
     "revision": "ccf6ece2a98f8af30d8e",
