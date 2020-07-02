@@ -1,0 +1,16 @@
+.inline-orange-text {
+    color: #ed7e31;
+}
+
+.professonal-features {
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.03);
+}
+
+#header a:hover {
+    color      : orange;
+    font-weight: bold;
+}
+
+.policy {
+    margin-right: 2rem;
+}

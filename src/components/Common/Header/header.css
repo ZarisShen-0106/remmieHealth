@@ -1,0 +1,14 @@
+#header {
+    height          : auto;
+    position        : fixed;
+    z-index         : 9;
+    background-color: white;
+    width           : 100%;
+
+}
+
+.logo {
+    width : 5rem;
+    height: 5rem;
+    color : red;
+}
