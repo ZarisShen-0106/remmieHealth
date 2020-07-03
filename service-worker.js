@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/remmieHealth/precache-manifest.52abc992c5469f402528b6cb3e29728f.js"
+  "/remmieHealth/precache-manifest.c961e3cf30386a6d35c3c76b2aceec2d.js"
 );
 
 self.addEventListener('message', (event) => {
