@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/remmieHealth/static/css/main.c708497f.chunk.css",
-    "main.js": "/remmieHealth/static/js/main.b2dc514c.chunk.js",
-    "main.js.map": "/remmieHealth/static/js/main.b2dc514c.chunk.js.map",
+    "main.css": "/remmieHealth/static/css/main.7b99f5d2.chunk.css",
+    "main.js": "/remmieHealth/static/js/main.87f57b36.chunk.js",
+    "main.js.map": "/remmieHealth/static/js/main.87f57b36.chunk.js.map",
     "runtime-main.js": "/remmieHealth/static/js/runtime-main.11825c19.js",
     "runtime-main.js.map": "/remmieHealth/static/js/runtime-main.11825c19.js.map",
     "static/css/2.d34346ea.chunk.css": "/remmieHealth/static/css/2.d34346ea.chunk.css",
-    "static/js/2.3eafabdb.chunk.js": "/remmieHealth/static/js/2.3eafabdb.chunk.js",
-    "static/js/2.3eafabdb.chunk.js.map": "/remmieHealth/static/js/2.3eafabdb.chunk.js.map",
+    "static/js/2.25d26541.chunk.js": "/remmieHealth/static/js/2.25d26541.chunk.js",
+    "static/js/2.25d26541.chunk.js.map": "/remmieHealth/static/js/2.25d26541.chunk.js.map",
     "index.html": "/remmieHealth/index.html",
-    "precache-manifest.c961e3cf30386a6d35c3c76b2aceec2d.js": "/remmieHealth/precache-manifest.c961e3cf30386a6d35c3c76b2aceec2d.js",
+    "precache-manifest.ea9e6c50dfd118cfe452f20510188b63.js": "/remmieHealth/precache-manifest.ea9e6c50dfd118cfe452f20510188b63.js",
     "service-worker.js": "/remmieHealth/service-worker.js",
     "static/css/2.d34346ea.chunk.css.map": "/remmieHealth/static/css/2.d34346ea.chunk.css.map",
-    "static/css/main.c708497f.chunk.css.map": "/remmieHealth/static/css/main.c708497f.chunk.css.map",
-    "static/js/2.3eafabdb.chunk.js.LICENSE.txt": "/remmieHealth/static/js/2.3eafabdb.chunk.js.LICENSE.txt",
+    "static/css/main.7b99f5d2.chunk.css.map": "/remmieHealth/static/css/main.7b99f5d2.chunk.css.map",
+    "static/js/2.25d26541.chunk.js.LICENSE.txt": "/remmieHealth/static/js/2.25d26541.chunk.js.LICENSE.txt",
     "static/media/index.css": "/remmieHealth/static/media/Quicksand-VariableFont_wght.f9baef8a.ttf",
     "static/media/Remmie-Logo.png": "/remmieHealth/static/media/Remmie-Logo.53ab06bd.png",
     "static/media/SampleDeviceCombo.png": "/remmieHealth/static/media/SampleDeviceCombo.45c21b2e.png",
@@ -59,8 +59,8 @@
   "entrypoints": [
     "static/js/runtime-main.11825c19.js",
     "static/css/2.d34346ea.chunk.css",
-    "static/js/2.3eafabdb.chunk.js",
-    "static/css/main.c708497f.chunk.css",
-    "static/js/main.b2dc514c.chunk.js"
+    "static/js/2.25d26541.chunk.js",
+    "static/css/main.7b99f5d2.chunk.css",
+    "static/js/main.87f57b36.chunk.js"
   ]
 }
